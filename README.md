@@ -5,5 +5,7 @@ This java program provides an easy way to track your GPA. You can add previously
 
 # How to Run
 In the src folder, run GpaGui.java
+
 or
+
 Download and run GPACalc.jar
